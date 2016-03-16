@@ -1,2 +1,2 @@
 # hello-world
-Just a test.
+Still a CrocoDuckling of software...
